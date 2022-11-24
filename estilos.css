@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario {
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 50vh;
+}
+.lottie{
+    background-color: aqua;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
